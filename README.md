@@ -10,10 +10,9 @@ AI 기반의 웹 애플리케이션으로, 과제에 대한 자동 피드백을 
 
 ## 기술 스택
 
-- **프론트엔드**: React, HTML, CSS
+- **프론트엔드**: HTML, CSS
 - **백엔드**: Node.js, Express
-- **AI 모델**: OpenAI GPT API 또는 TensorFlow 모델
-- **데이터베이스**: MongoDB (또는 사용자의 데이터 요구에 맞는 다른 DB)
+- **AI 모델**: Gemini API 
 
 ## 설치 방법
 
